@@ -16,7 +16,7 @@ export const homepageText = `
 `;
 /*   STEP 3   */
 /*
-3 managers as an example. Uncomment (remove the //) before each line to make it live code
+10 managers as an example. Uncomment (remove the //) before each line to make it live code
 If you're having trouble, reference the Training Wheels' Manager Section
 https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding-managers-and-changing-the-homepage-text
 */
