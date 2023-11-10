@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Founded in 2023, the The Bois Dynasty League is a dynasty league amongst a small group of friends. Each year, the managers compete to win the Bois Cup and avoid the ever-humiliating Toilet Bowl.</p>
-  
+  <p>Through the first season it has become clear which teams are setting their sights on an immediate trophy and which teams are looking towards to future seasons for their taste of glory. Only time will tell if these decisions will pay off.</p>
 
 /*   STEP 3   */
 /*
